@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: Crypto-Time-Capsule
+message: Thanks to Ronald L. Rivest at MIT for publishing Time-Lock Puzzle in 1999
+type: software
+authors:
+  - given-names: Andre
+    family-names: Mathisen
+    email: andre.mathisen@protonmail.com
+    orcid: 'https://orcid.org/0000-0003-1920-8496'
+  - given-names: Ronald
+    name-particle: L.
+    family-names: Rivest
+    affiliation: Massachusetts Institute of Technology
